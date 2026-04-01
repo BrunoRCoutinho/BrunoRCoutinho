@@ -44,13 +44,7 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_AQUI](https://www.linkedin.com/in/bruno-rodrigues-coutinho-4342228b/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunorfphoto@gmail.com)
 
----
 
-## 📊 Estatísticas
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRCoutinho&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRCoutinho&layout=compact&theme=dark)
