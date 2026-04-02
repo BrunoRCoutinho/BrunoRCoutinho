@@ -3,7 +3,7 @@
 🎓 Profissional com +10 anos em Topografia e Geoprocessamento  
 💻 Desenvolvedor Back-end | Java Spring e Python  
 🌍 Especialista em GNSS, LiDAR e Fotogrametria  
-🚀 Focado no desenvolvimento de soluções SaaS para geotecnologia  
+🚀 Focado no desenvolvimento de soluções para geotecnologia  
 
 ---
 
