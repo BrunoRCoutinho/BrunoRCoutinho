@@ -1,13 +1,13 @@
-# 👨‍💻 Bruno Rodrigues Coutinho - Cursando Engenharia de Software
+Bruno Rodrigues Coutinho - Cursando Engenharia de Software
 
-🎓 Profissional com +10 anos em Topografia e Geoprocessamento  
-💻 Desenvolvedor Back-end | Java Spring e Python  
-🌍 Especialista em GNSS, LiDAR e Fotogrametria  
-🚀 Focado no desenvolvimento de soluções para geotecnologia  
+Profissional com +10 anos em Topografia e Geoprocessamento  
+Desenvolvedor Back-end | Java Spring e Python  
+Especialista em GNSS, LiDAR e Fotogrametria  
+Focado no desenvolvimento de soluções para geotecnologia  
 
 ---
 
-## 🧠 Áreas de atuação
+## Áreas de atuação
 
 - Desenvolvimento Back-end  
 - APIs REST  
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 - 🔹 **Ortho Vectorizer** → Vetorização de ortoimagens com IA  - Em desenvolvimento
 - 🔹 **GeoPlanner** → Planejamento GNSS e topográfico  - Em desenvolvimento
@@ -42,7 +42,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_AQUI](https://www.linkedin.com/in/bruno-rodrigues-coutinho-4342228b/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunorfphoto@gmail.com)
